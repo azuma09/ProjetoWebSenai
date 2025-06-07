@@ -21,7 +21,7 @@ body {
   }
   
   button {
-    background-color: #0066cc;
+    background-color:rgb(102, 0, 97);
     color: white;
     border: none;
     cursor: pointer;
@@ -29,5 +29,5 @@ body {
   }
   
   button:hover {
-    background-color: #004c99;
+    background-color: #026d1d;
   }
